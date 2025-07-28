@@ -165,7 +165,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
                   className="btn btn-warning btn-sm"
                   onClick={() => editProduct(p)}
                 >
-                  Edit
+                  Edittttt
                 </button>
                 {/*
                 <button
